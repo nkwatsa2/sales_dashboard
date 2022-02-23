@@ -2,7 +2,7 @@
 ## Brief description;
 Using shiny, ggplot2, datatable, dplyr etc... packages to make a dashboard for sales. And using modularization to simplify the code.
 
-# after choosing the dates and hitting the "filter" button, the results should be as below:
+After choosing the dates and hitting the "filter" button, the results should be as below:
 
 ![](num_transactions_graph.png)
 
