@@ -53,8 +53,8 @@ dateRange_server <- function(id){
 
 
 #----------------
-#  filter mpay payment module 
-# filtering and summarising mpay payment table
+#  filter  payment module 
+# filtering and summarising transaction data
 #---------------
 
 filter_Payment_UI <- function(id){
