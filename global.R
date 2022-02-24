@@ -32,3 +32,4 @@ transaction_data$only_date <- as.Date(transaction_data$only_date, format = "%Y-%
 transaction_data$month_ <-as.numeric(transaction_data$month_)
 transaction_data$year_ <- as.numeric(transaction_data$year_)
 str(transaction_data)
+
